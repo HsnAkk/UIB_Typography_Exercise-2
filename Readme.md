@@ -10,7 +10,7 @@ Responsive multiple page website about portfolio
 - From Google Fonts import "Nanum Gothic" with weights 400, 700 in this document, and use it for the whole body
 - Add a title to the document
 - Use External CSS to style the document
-- It should be responsive with breakpoints 480px, 768px, 1024px
+- It should be responsive with breakpoints 480px, 768px, 1024px.
 - Please just code what you see, neither less nor more.
 
 ## The online version
